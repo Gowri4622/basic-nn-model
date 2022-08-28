@@ -149,5 +149,5 @@ ai_brain.predict(input_scaled)
 ![Screenshot_396](https://user-images.githubusercontent.com/75235455/187062162-efe7f5b4-38b4-4274-8d5f-ebc5f39aacb6.png)
 
 ## RESULT
-Thus a Neural network for Regression model is Implemented
+Thus a Neural network for Regression model is Implemented.
 
