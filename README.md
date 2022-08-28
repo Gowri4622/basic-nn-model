@@ -128,13 +128,16 @@ ai_brain.predict(input_scaled)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![Screenshot_395](https://user-images.githubusercontent.com/75235455/187062136-8fc58bd6-70f8-47a1-bbf8-c06504034bc4.png)
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![Screenshot_397](https://user-images.githubusercontent.com/75235455/187062151-57cd3d20-be1d-4d55-832b-5cb7f39b710a.png)
+
+
 
 ### Test Data Root Mean Squared Error
 
@@ -142,6 +145,6 @@ Find the test data root mean squared error
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![Screenshot_396](https://user-images.githubusercontent.com/75235455/187062162-efe7f5b4-38b4-4274-8d5f-ebc5f39aacb6.png)
 
 ## RESULT
