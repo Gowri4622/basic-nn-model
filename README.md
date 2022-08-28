@@ -141,10 +141,13 @@ ai_brain.predict(input_scaled)
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![Screenshot_399](https://user-images.githubusercontent.com/75235455/187077554-7a8a2029-f473-4849-9e91-a42b81cfd50a.png)
+
 
 ### New Sample Data Prediction
 
 ![Screenshot_396](https://user-images.githubusercontent.com/75235455/187062162-efe7f5b4-38b4-4274-8d5f-ebc5f39aacb6.png)
 
 ## RESULT
+Thus a Neural network for Regression model is Implemented
+
