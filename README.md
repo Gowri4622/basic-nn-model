@@ -1,4 +1,6 @@
-# Developing a Neural Network Regression Model
+### EX NO : 01
+### DATE  : 03.09.2022
+# <p align="center"> Developing a Neural Network Regression Model </p>
 
 ## AIM
 
@@ -12,6 +14,12 @@ First we can take the dataset based on one input value and some mathematical cal
 
 ![187081945-b3f6b59b-40bd-4db0-9970-f5d27cf3599d](https://user-images.githubusercontent.com/75235455/187084916-9a89437f-8611-418e-83cd-c60a7dbdabdd.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## DESIGN STEPS
 
@@ -131,6 +139,15 @@ ai_brain.predict(input_scaled)
 
 ![Screenshot_395](https://user-images.githubusercontent.com/75235455/187062136-8fc58bd6-70f8-47a1-bbf8-c06504034bc4.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## OUTPUT
 
